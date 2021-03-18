@@ -1,7 +1,7 @@
-___
-title: "The Great Gatsby Test"
+---
+title: "Your First Post"
 date: "2021-03-17"
-___
+---
 
 This is your first blog post!
 
